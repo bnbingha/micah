@@ -1,4 +1,4 @@
-# Micah's demo project
+# Micah's CRUD sample project
 
 ## Download
 - Visual Studio (note that this is a different program from Visual Studio Code)
